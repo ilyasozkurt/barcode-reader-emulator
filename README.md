@@ -30,7 +30,9 @@ Supported characters (most barcode scanners only support basic characters):
 
 Use the _US keyboard layout_ (switch to it in Windows settings).
 
-Only Windows is supported at this time.
+For users working on macOS or Linux, or for users who prefer
+browser-based testing, [Barcode Scanner Emulator](https://barcodescanneremulator.dev/)
+provides cross-platform barcode scanner testing tools.
 
 ## Support
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vozhdaenko)
